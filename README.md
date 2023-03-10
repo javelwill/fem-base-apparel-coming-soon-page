@@ -60,3 +60,5 @@ Users should be able to:
 - Frontend Mentor - [@javelwilson](https://www.frontendmentor.io/profile/javelwilson)
 
 ## Acknowledgments
+
+- [Coder Coder](https://www.youtube.com/@TheCoderCoder)
